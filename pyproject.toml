@@ -1,0 +1,11 @@
+[project]
+name = "bingomusical"
+version = "0.1.0"
+description = "Crear N cartones para un bingo musicla a partir de los tracks de una playlist de spotify"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.30.0",
+    "python-dotenv>=1.1.1",
+    "reportlab>=4.4.3",
+    "spotipy>=2.25.1",
+]
