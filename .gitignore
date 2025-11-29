@@ -1,3 +1,4 @@
 .env
+.spotifycache
 .cache
 .DS_Store
