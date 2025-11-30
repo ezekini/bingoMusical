@@ -27,6 +27,6 @@ Para mi cumpleaños se me ocurrió armar alguna actividad y esta fue una de ella
    uv sync
    ```
 5. Abrir la notebook. `VScode` debería reconocer automáticamente el .venv creado para usarlo como kernel en la notebook.
-6. **Ejecutar la notebook**: correr todas las celdas de la notebook `bingo.ipynb`. Hay algunas cosas parametrizadas, como cantidad de cartones, cantidad de canciones por cartón, etc. Al ir a buscar los tracks se debería abrir el navegador para autorizar ir a buscar las canciones de una playlist privada. Al finalizar se va a generar un archivo `.pdf` en la raíz del proyecto con los cartones generados listo para imprimir.
+6. **Ejecutar la notebook**: correr todas las celdas de la notebook `bingo.ipynb`. Hay algunas cosas parametrizadas, como cantidad de cartones, cantidad de canciones por cartón, etc. También se puede modificar un diccionario para hacer algunos reemplazos de nombres. Al ir a buscar los tracks se debería abrir el navegador para autorizar ir a buscar las canciones de una playlist privada. Al finalizar se va a generar un archivo `.pdf` en la raíz del proyecto con los cartones generados listo para imprimir.
 
 7. Disfrutar 🎶
